@@ -21,4 +21,4 @@
 
 ## Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/amal-nellanhi)  
-- [Email](amalnellanhi@gmail.com)
+- [Email](mailto:amalnellanhi@gmail.com)
