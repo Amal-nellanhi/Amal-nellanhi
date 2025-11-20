@@ -1,8 +1,10 @@
-# Hi, I'm Amal N K 👋  
+<p align="center">
+  <img src="Banner.png" alt="Amal Banner" width="900" style="border-radius: 20px;" />
+</p>
 
-🎓 Student | 💻 Aspiring Developer | 🚀 Tech Enthusiast | 📚 Passionate About Teaching  
+<p align = "center"><b>🎓 Student | 💻 Aspiring Developer | 🚀 Tech Enthusiast | 📚 Passionate About Teaching</b></p>  
 
----
+
 
 ## About Me  
 - 🔭 Currently focusing on: Data Analysis, Data Science, AI/ML, and Cloud Technologies  
