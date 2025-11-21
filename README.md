@@ -50,6 +50,15 @@ My goal isn't just to write code, but to engineer intelligent solutions. I am al
 </div>
 
 <div align="center">
+<div align="center">
+  
+## Achievements & Badges
+
+  <a href="https://www.kaggle.com/amalnellanhi">
+    <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media" height="110" alt="Kaggle Badge"/>
+  </a>
+
+</div>
 
   ## Connect with me
 
