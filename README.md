@@ -54,21 +54,20 @@ My goal isn't just to write code, but to engineer intelligent solutions. I am al
   
 ## Achievements & Badges
 
-  <a href="https://www.kaggle.com/amalnellanhi">
-    <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media" height="110" alt="Kaggle Badge"/>
+  <a href="https://www.kaggle.com/amalnellanhi"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media" height="110" alt="Kaggle Badge"/>
+  </a>
+  
+  <a href="https://www.hackerrank.com/profile/amalnellanhi">
+  <img src="python_logo.png"height="58" alt="HackerRank Badge"/> 
   </a>
 
 </div>
 
   ## Connect with me
 
-  <a href="https://www.linkedin.com/in/amal-nellanhi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
+  <a href="https://www.linkedin.com/in/amal-nellanhi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:amalnellanhi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
 </div>
 
