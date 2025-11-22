@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bannerlogo.jpeg" width="900"/>
+  <img src="banner_me.jpeg" width="800"/>
 </p>
 <div align="center">
   <a href="https://git.io/typing-svg">
