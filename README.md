@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="bannerlogo.jpeg" width="900"/>
+</p>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FF0099&center=true&vCenter=true&width=730&lines=Hi%2C+I'm+Amal+N+K.....;Data+Science+%26+AI+Enthusiast.....;Passionate+about+Teaching.....;Learning.+Building.+Improving....." alt="Typing SVG" />
