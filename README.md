@@ -14,10 +14,17 @@ My goal isn't just to write code, but to engineer intelligent solutions. I am al
 
 <br/> 
 
+
   > **"The art of teaching is the art of assisting discovery."**
 
 </div>
 <br></br>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Amal-nellanhi&label=Profile%20Views&color=BF00FF&style=for-the-badge" alt="Profile Views" />
+</div>
 
 <div align="center">
 
@@ -57,6 +64,13 @@ My goal isn't just to write code, but to engineer intelligent solutions. I am al
 <div align="center">
 <div align="center">
 <br></br>
+<div align="center">
+  <br/>
+  <h3>
+    Monthly Coding Activity
+  </h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amal-nellanhi&bg_color=141321&color=BF00FF&line=BF00FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
   
 ## Achievements & Badges
 
@@ -76,5 +90,4 @@ My goal isn't just to write code, but to engineer intelligent solutions. I am al
   <a href="mailto:amalnellanhi@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
-</div>
 
