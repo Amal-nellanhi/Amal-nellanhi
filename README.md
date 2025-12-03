@@ -49,28 +49,19 @@ My goal isn't just to write code, but to engineer intelligent solutions. I am al
 
 ## My GitHub Stats
 
-<a href="https://github.com/Amal-nellanhi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amal-nellanhi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-nellanhi&layout=compact&theme=radical"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Amal-nellanhi">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amal-nellanhi&theme=radical" />
-</a>
-
-</div>
-
 <div align="center">
-<div align="center">
-<br></br>
-<div align="center">
+  <a href="https://github.com/Amal-nellanhi">
+    <img height="180em" src="https://github-readme-stats-gamma-one-49.vercel.app/api?username=Amal-nellanhi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-gamma-one-49.vercel.app/api/top-langs/?username=Amal-nellanhi&layout=compact&theme=radical"/>
+  </a>
+
+  <a href="https://github.com/Amal-nellanhi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amal-nellanhi&theme=radical"/>
+  </a>
+
   <br/>
-  <h3>
-    Monthly Coding Activity
-  </h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amal-nellanhi&bg_color=141321&color=BF00FF&line=BF00FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <h3>Monthly Coding Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amal-nellanhi&bg_color=141321&color=BF00FF&line=BF00FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
   
 ## Achievements & Badges
