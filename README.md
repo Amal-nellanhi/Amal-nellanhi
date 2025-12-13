@@ -15,8 +15,11 @@ My goal isn't just to write code, but to engineer intelligent solutions. I am al
 
 <br/> 
 
+<div align="center">
+  
+### <i>✨✨ This work reflects where I am learning, not where I’m finished. ✨✨</i>
 
-  > **"The art of teaching is the art of assisting discovery."**
+</div>
 
 </div>
 <br></br>
