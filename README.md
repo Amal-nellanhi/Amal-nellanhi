@@ -55,7 +55,7 @@ My goal isn't just to write code, but to engineer intelligent solutions. I am al
 <div align="center">
   <a href="https://github.com/Amal-nellanhi">
     <img height="180em" src="https://github-readme-stats-gamma-one-49.vercel.app/api?username=Amal-nellanhi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-gamma-one-49.vercel.app/api/top-langs/?username=Amal-nellanhi&layout=compact&theme=radical&threshold=0"/>
+    <img height="180em" src="https://github-readme-stats-gamma-one-49.vercel.app/api/top-langs/?username=Amal-nellanhi&hide=Jupyter%20Notebook&layout=compact&theme=radical&threshold=0"/>
   </a>
 
 <a href="https://git.io/streak-stats"><img src="https://github-streak-stats-pi.vercel.app?user=Amal-nellanhi&theme=radical" alt="GitHub Streak" /></a>
