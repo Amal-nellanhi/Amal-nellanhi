@@ -3,15 +3,21 @@
 </p>
 <br></br>
 
-I am a **Computer Science student**  bridging the gap between strong software engineering foundations and the future of AI. I build projects where **Data Structures** meet real-world **Machine Learning** applications ✨. 
+I’m a **Computer Science student** who enjoys building a strong foundation in software engineering while exploring the exciting world of AI.  
+I like working on projects where **Data Structures** connect with real-world **Machine Learning** applications .  
 
-My goal isn't just to write code, but to engineer intelligent solutions. I am also deeply passionate about technology education and problem-solving ✨. Currently, I am focusing on **Data Analysis, AI/ML, and Cloud Technologies** and deep diving into **Advanced Python** patterns.
+I’m learning and growing in areas like **Data Analysis, AI/ML, Cloud Technologies**, and **Advanced Python** patterns.  
+I also enjoy **RDBMS and backend development**, and I find a lot of meaning in **teaching and sharing knowledge** with others.  
+
+My aim is not just to write code, but to steadily improve at engineering thoughtful, reliable solutions.  
+
+
 
 <br/> 
 
 <div align="center">
   
-### <i>✨✨ This work reflects where I am learning, not where I’m finished. ✨✨</i>
+### <i>🔹 This profile reflects my learning journey, not the finish line. </i>
 
 </div>
 
@@ -21,7 +27,7 @@ My goal isn't just to write code, but to engineer intelligent solutions. I am al
 
 <div align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Amal-nellanhi&label=Profile%20Views&color=BF00FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Amal-nellanhi&label=Profile%20Views&color=4d6bc4&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
@@ -56,20 +62,10 @@ My goal isn't just to write code, but to engineer intelligent solutions. I am al
 
   <br/>
   <h3>Monthly Coding Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amal-nellanhi&bg_color=141321&color=BF00FF&line=BF00FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amal-nellanhi&bg_color=141321&color=4d6bc4&line=4d6bc4&point=6f92d0&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
   
-## Achievements & Badges
 
-  <a href="https://www.kaggle.com/amalnellanhi"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media" height="110" alt="Kaggle Badge"/>
-  </a>
-  
-  <a href="https://www.hackerrank.com/profile/amalnellanhi">
-  <img src="python_logo.png"height="58" alt="HackerRank Badge"/> 
-  </a>
-
-</div>
-<br></br>
 
   ## Connect with me
 
