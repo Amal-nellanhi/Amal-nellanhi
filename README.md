@@ -1,12 +1,6 @@
 <p align="center">
-  <img src="banner.jpg" width="700"/>
+  <img src="banner (2).png"/>
 </p>
-<br></br>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=1100&lines=Heyy+I+am+Amal+N+K+....+👋👋;Computer+Science+and+Engineering+Student;Data+Science+and+AI+Enthusiast;Interested+in+Software+Engineering;Practicing+DSA;Passionate+about+Teaching+and+Sharing;Practicing+C+for+Speed,+Python+for+Sanity+😎;Debugging+Code,+and+Sometimes+Life...." alt="Typing SVG" />
-  </a>
-</div>
 <br></br>
 
 I am a **Computer Science student**  bridging the gap between strong software engineering foundations and the future of AI. I build projects where **Data Structures** meet real-world **Machine Learning** applications ✨. 
