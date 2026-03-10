@@ -54,11 +54,11 @@ My aim is not just to write code, but to steadily improve at engineering thought
 
 <div align="center">
   <a href="https://github.com/Amal-nellanhi">
-    <img height="180em" src="https://github-readme-stats-gamma-one-49.vercel.app/api?username=Amal-nellanhi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-gamma-one-49.vercel.app/api/top-langs/?username=Amal-nellanhi&hide=Jupyter%20Notebook&layout=compact&theme=radical&threshold=0"/>
+    <img height="180em" src="https://github-readme-stats-gamma-one-49.vercel.app/api?username=Amal-nellanhi&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-gamma-one-49.vercel.app/api/top-langs/?username=Amal-nellanhi&hide=Jupyter%20Notebook&layout=compact&theme=prussian&threshold=0"/>
   </a>
 
-<a href="https://git.io/streak-stats"><img src="https://github-streak-stats-pi.vercel.app?user=Amal-nellanhi&theme=radical" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-streak-stats-pi.vercel.app?user=Amal-nellanhi&theme=prussian" alt="GitHub Streak" /></a>
 
   <br/>
   <h3>Monthly Coding Activity</h3>
