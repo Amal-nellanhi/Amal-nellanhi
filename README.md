@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="GitHub Banner.png"/>
+  <img src="GitHub Banner (2).png"/>
 </p>
-<br></br>
 
 <div align = "center">
   
