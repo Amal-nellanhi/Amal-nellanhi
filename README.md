@@ -3,13 +3,15 @@
 </p>
 <br></br>
 
-I’m a **Computer Science student** who enjoys building a strong foundation in software engineering while exploring the exciting world of AI.  
-I like working on projects where **Data Structures** connect with real-world **Machine Learning** applications .  
+### ***About me***
+I’m a B.Tech **Computer Science & Engineering** student who enjoys building a strong foundation in **software engineering** while exploring the exciting world of AI.
 
-I’m learning and growing in areas like **Data Analysis, AI/ML, Cloud Technologies**, and **Advanced Python** patterns.  
-I also enjoy **RDBMS and backend development**, and I find a lot of meaning in **teaching and sharing knowledge** with others.  
+I like working on projects where **Data Structures** connect with real‑world applications, and I’m steadily learning and growing in areas like **Data Analysis**, **Cloud Technologies**, **Advanced Python patterns**, and **Version Control.**
 
-My aim is not just to write code, but to steadily improve at engineering thoughtful, reliable solutions.  
+I also enjoy **RDBMS and backend development**, and I find real meaning in teaching and sharing knowledge with others—because for me, teaching isn’t just an activity, it’s a passion that keeps me learning.
+
+My aim is not just to write code, but to improve at engineering thoughtful, reliable solutions that make a difference
+
 
 
 
