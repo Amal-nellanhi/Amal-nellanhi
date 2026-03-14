@@ -3,7 +3,13 @@
 </p>
 <br></br>
 
+<div align = "center">
+  
 ### ***About me***
+
+
+</div>
+
 I’m a B.Tech **Computer Science & Engineering** student who enjoys building a strong foundation in **software engineering** while exploring the exciting world of AI.
 
 I like working on projects where **Data Structures** connect with real‑world applications, and I’m steadily learning and growing in areas like **Data Analysis**, **Cloud Technologies**, **Advanced Python patterns**, and **Version Control.**
