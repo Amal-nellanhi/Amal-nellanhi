@@ -42,7 +42,7 @@ My aim is not just to write code, but to improve at engineering thoughtful, reli
 
   ## Skills
 
-![Skills](https://skillicons.dev/icons?i=python,postgres,mysql,supabase,vscode,git,github,java&theme=light)
+![Skills](https://skillicons.dev/icons?i=python,c,postgres,mysql,supabase,vscode,git,github,java&theme=light)
 
 
 <div align="center">
