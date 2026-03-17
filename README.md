@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="GitHub Banner (2).png"/>
+  <img src="GitHub Banner.gif"/>
 </p>
 
 <div align = "center">
