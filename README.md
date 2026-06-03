@@ -22,26 +22,16 @@ My aim is not just to write code, but to improve at engineering thoughtful, reli
 
 <br/> 
 
-<div align="center">
-  
-### <i>🔹 This profile reflects my learning journey, not the finish line. </i>
-
-</div>
 
 </div>
 <br></br>
 </div>
 
 <div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Amal-nellanhi&label=Profile%20Views&color=4d6bc4&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
 
   ## Skills
 
-![Skills](https://skillicons.dev/icons?i=python,c,postgres,mysql,supabase,vscode,git,github,java&theme=light)
+![Skills](https://skillicons.dev/icons?i=python,c,postgres,mysql,supabase,vscode,git,github,java&theme=dark)
 
 
 <div align="center">
