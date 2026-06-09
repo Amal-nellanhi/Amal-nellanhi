@@ -53,16 +53,3 @@ My aim is not just to write code, but to improve at engineering thoughtful, reli
   
 
 
-  ## Connect with me
-
-  <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/amal-nellanhi/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-</a>
-
-<!-- Gmail -->
-<a href="mailto:amalnellanhi@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40" alt="Gmail"/>
-</a>
-
-
